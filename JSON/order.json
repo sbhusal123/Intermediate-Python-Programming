@@ -1,0 +1,23 @@
+{
+    "id": 2599,
+    "person": {
+        "fname": "Ramesh",
+        "lname": "Shrestha",
+        "age": 20
+    },
+    "order_items": [
+        {
+            "item_id": 101,
+            "item_name": "Item1",
+            "unit_price": 2000,
+            "qty": 2
+        },
+        {
+            "item_id": 102,
+            "item_name": "Item2",
+            "unit_price": 5000,
+            "qty": 1
+        }
+    ],
+    "type": "Order"
+}
